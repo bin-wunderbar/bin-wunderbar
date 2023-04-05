@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/bin-wunderbar?tab=repositories)
 
-- 💬 Ask me about **biking **
+- 💬 Ask me about **biking**
 
 - 📄 Know about my experiences [binwunderbar](https://mnf.red/binwunderbar)
 
